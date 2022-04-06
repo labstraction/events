@@ -2,3 +2,18 @@
     display: none;
     visibility: hidden;
 } */
+
+.mouse-div{
+    height: 300px;
+    width: 300px;
+    
+    display: inline-block;
+}
+
+.tomato{
+    background-color: tomato;
+}
+
+.green{
+    background-color: green;
+}
